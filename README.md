@@ -5,9 +5,9 @@
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/WeeMaggie/SIP-Calculation/master/image/11.JPG"> </td>
-<td> <img src="https://raw.githubusercontent.com/WeeMaggie/SIP-Calculation/master/image/22.JPG"> </td>
-<td> <img src="https://raw.githubusercontent.com/WeeMaggie/SIP-Calculation/master/image/33.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/HyltonJohn247/SIP/master/img/1.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/HyltonJohn247/SIP/master/img/2.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/HyltonJohn247/SIP/master/img/3.JPG"> </td>
 </tr>
 
 <tr>
@@ -27,15 +27,15 @@ SIP Calculation calculates the future value of SIP (Systematic Investment Plan) 
 
 
 ### User Information
-mail: ruix3ft8e9@mail.ru
+xgftsz@163.com
 <br>
-tell: +60133569809
+tell: +60133680911
 
 
 
 ## Author
 
-[@WeeMaggie]
+[@HyltonJohn]
 
 
 
